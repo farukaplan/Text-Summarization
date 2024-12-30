@@ -1,0 +1,5 @@
+*.ckpt
+*.pth
+*.pt
+*.h5
+src/training_checkpoints/
