@@ -48,6 +48,7 @@ The main implementation is provided in the Jupyter Notebook `text_summarization.
    ```
 
 3. **Open and execute** the `text_summarization.ipynb` notebook to train and evaluate the model.
+4. Beware, since we developed this project on Google Colab, file path to dataset may vary, you may need to adjust it accordingly
 
 ## Results
 
